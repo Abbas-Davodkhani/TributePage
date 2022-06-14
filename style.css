@@ -67,3 +67,13 @@ a{
 .years{
     font-weight: 900;
 }
+
+/* Footer */
+#footer{
+    background-color: #e2cf8f;
+    text-align: center;
+}
+#footer p{
+    font-size: 18px;
+    font-weight: 700;
+}
