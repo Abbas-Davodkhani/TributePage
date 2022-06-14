@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#header{
+    background-color: #1E1D23;
+    height: 80px;
+}
+#header div{
+    text-align: left;
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+#header-left h1{
+    color: #fff;
+}
+#header nav{
+    text-align: right;          
+    float: right;
+    height: 80px;
+}
+#header nav li{
+    float: right;
+}
+#header nav li a{
+    display:  block;
+    margin: 5px;
+    padding: 24px;
+    background-color: #454658;
+    color: #fff;
+    border: 1px solid #454658;
+    border-radius: 10%;
+    transition: 0.8s;
+}
+
+#signIn{
+    background-color: #41C86A !important;
+}
+#top-menu li a:hover{
+    background-color: #6a6da5;
+}
