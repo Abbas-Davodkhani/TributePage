@@ -13,6 +13,7 @@ ul{
 a{
     text-decoration: none;
 }
+/* Header */
 #header{
     background-color: #1E1D23;
     height: 80px;
@@ -50,4 +51,10 @@ a{
 }
 #top-menu li a:hover{
     background-color: #6a6da5;
+}
+
+/* Contetn  */
+#content div{
+    width: 80%;
+    margin: auto;
 }
