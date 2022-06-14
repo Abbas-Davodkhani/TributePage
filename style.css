@@ -18,6 +18,7 @@ a{
     background-color: #1E1D23;
     height: 80px;
 }
+
 #header div{
     text-align: left;
     width: 30%;
@@ -57,4 +58,12 @@ a{
 #content div{
     width: 80%;
     margin: auto;
+}
+
+#content div ul{
+    list-style: disc !important;
+}
+
+.years{
+    font-weight: 900;
 }
